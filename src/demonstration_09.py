@@ -12,6 +12,3 @@ Examples:
 Notes:
 - All of the letters in the input list will always be lowercase.
 """
-def mapping(letters):
-    # Your code here
-
